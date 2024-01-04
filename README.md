@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm currently in a Bootcamp for Fullstack Webdeveloper.<br>In this Bootcamp we already learned how to Design a Landingpage with HTML and SCSS.<br>I'm learning Javascript to implement some logic in my Applications.<br>In the future I'm also gonna learn how to use my knowledge in the React framework.<br>I'm open to any collaboration to improve my skills, connect to same minded people and work together in projects.<br><br>
+I'm currently enrolled in a Fullstack Web Developer Bootcamp where I've gained hands-on experience in designing captivating landing pages using HTML and SCSS. My proficiency in JavaScript allows me to implement logic seamlessly into my applications. Additionally, I have successfully applied my skills in the React framework, creating dynamic and responsive user interfaces.
+
+In the upcoming phases of the Bootcamp, I am eager to delve into backend development to broaden my skill set. I am actively seeking collaborations to enhance my abilities, connect with like-minded individuals, and contribute to meaningful projects. Open to opportunities, I am excited about the prospect of continuous learning and growth in both frontend and backend development.
+
+Let's code and create together! 🚀
 
 
 # 💻 Tech Stack:
